@@ -15,8 +15,8 @@ import {
 import { useEffect } from "react";
 import DivisaArg from "../components/DivisaArg";
 import DivisaEEUU from "../components/DivisaEEUU";
-import banderaARG from "./assets/BanderaARG.svg";
-import banderaEEUU from "./assets/BanderaEEUU.svg";
+import banderaARG from "./assets/banderaARG.svg";
+import banderaEEUU from "./assets/banderaEEUU.svg";
 
 function App() {
   const ApiUrl = "https://www.dolarsi.com/api/api.php?type=dolar";
